@@ -1,15 +1,26 @@
-/* Indonesia */
 .flagContainer {
     width: 50vmin;
     height: 33vmin;
     border: solid black;
 }
+/* Indonesia */
 .indonesiaRed {
     background-color: red;
     height: 50%
 }
 /* Colombia */
-
+.columbiaPanelYellow {
+    background-color: #FCD116;
+    height: 50%
+}
+.columbiaPanelBlue {
+    background-color: #003893;
+    height: 25%
+}
+.columbiaPanelRed {
+    background-color: #CE1126;
+    height: 25%
+}
 /* Ireland */
 
 /* France */
