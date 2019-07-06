@@ -1,5 +1,13 @@
 /* Indonesia */
-
+.flagContainer {
+    width: 50vmin;
+    height: 33vmin;
+    border: solid black;
+}
+.indonesiaRed {
+    background-color: red;
+    height: 50%
+}
 /* Colombia */
 
 /* Ireland */
