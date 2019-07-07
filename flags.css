@@ -15,7 +15,21 @@
 /* Colombia */
 
 /* Ireland */
-
+.flex-container {
+    display: flex;
+}
+.childDiv {
+    width:100%;
+}
+.leftGreen {
+    background-color: #169B62;
+}
+.middleWhite {
+    background-color: #FFFFFF;
+}
+.rightOrange {
+    background-color: #FF883E;
+}
 /* France */
 
 /* Benin */
